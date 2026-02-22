@@ -23,7 +23,7 @@
     "fs-extra": "^8.1.0",
     "inquirer": "^7.3.3",
     "mime-types": "^2.1.26",
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.2.1",
     "moment": "^2.24.0",
     "ora": "^4.0.3",
     "promise-sequential": "^1.1.1"
