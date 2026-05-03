@@ -23,6 +23,6 @@
     "amplify-cli-core": "3.0.0",
     "fs-extra": "^8.1.0",
     "inquirer": "^7.3.3",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   }
 }
