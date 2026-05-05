@@ -41,7 +41,7 @@
     "lodash": "^4.17.21",
     "ora": "^4.0.3",
     "promise-sequential": "^1.1.1",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/folder-hash": "^4.0.1"
