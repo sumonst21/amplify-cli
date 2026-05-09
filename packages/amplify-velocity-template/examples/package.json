@@ -15,6 +15,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "velocityjs": "^1.0.1"
+    "velocityjs": "^2.1.6"
   }
 }
